@@ -23,4 +23,4 @@ Feel free to reach out if you have any questions or would like to know more abou
 
 How to execute:
 export PYTHONIOENCODING=utf-8
-
+python sp500StockDataOnTerminal.py
