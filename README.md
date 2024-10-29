@@ -20,3 +20,7 @@ This tool has proven to be highly effective in providing a quick and comprehensi
 Feel free to reach out if you have any questions or would like to know more about this project!
 
 #Python #Finance #StockMarket #DataScience #Programming #TechInnovation
+
+How to execute:
+export PYTHONIOENCODING=utf-8
+
